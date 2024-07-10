@@ -47,3 +47,47 @@
 
 ### DB구성
 <img width="461" alt="FollowMe_ERD" src="https://github.com/Lee-Da-Ye/FollowMeProject/assets/148595981/e2b0fbfc-5fb6-4bd9-9056-62629cd42be9">
+
+
+### 화면구현
+- 로그인 화면
+   - 로그인 전 [비밀번호 재설정] 버튼 클릭을 통해 임시 비밀번호 발급 가능
+   - [사번저장]을 통해 한번 로그인 한 사용자의 사번을 저장 가능
+<img width="70%" alt="loginpage" src="https://github.com/dandi0624/08_spring-workspace/assets/153481807/f7625222-2c54-4599-bc1a-b10ca2db55fc">
+
+ <br/> <br/>
+
+- 메인페이지
+   - 로그인 시 메인 페이지에서 근태관리, 최근 공지글 확인, 오늘의 뉴스 등을 확인
+   - 근태관리, 오늘의 결재 건으로 이동, 오늘의 To-do 등록 등의 기능을 수행 가능함
+<img width="70%" alt="mainpage" src="https://github.com/dandi0624/08_spring-workspace/assets/153481807/508efe1e-e572-4f5f-a958-ff8beb08c0f4">
+
+- 좌석예약페이지
+   - 직원은 좌석 예약 가능 여부 조회 및 예약 신청을 할 수 있음
+   - 대표는 좌석 예약 상세 조회가 가능하며, 좌석별 상태 변경을 할 수 있음
+<img width="70%" alt="seatreservaionpage" src="https://github.com/dandi0624/08_spring-workspace/assets/153481807/da793174-63f3-4de7-a2b0-6263a6316e40">
+
+<br/> <br/>
+
+- 전자결재페이지
+   - 전자결재는 진행중 / 승인 / 반려 / 회수 / 참조 / 미처리 결재함으로 구분됨
+   - 작성 문서에 따라 자동으로 결재라인이 지정되며, 최종 결재자만 의견 작성 가능함
+<img width="70%" alt="documentpage" src="https://github.com/dandi0624/08_spring-workspace/assets/153481807/216c88cc-6406-4321-be3e-a98f7dde5c26">
+
+<br/> <br/>
+
+- 일정관리페이지
+   - 일정관리 페이지에서는 전체 / 회사 / 부서 / 개인 일정을 구분해서 조회 가능함
+   - 구글 공휴일 캘린더를 연동해 일정에서 공휴일을 확인할 수 있게 함
+<img width="70%" alt="callendarpage" src="https://github.com/dandi0624/08_spring-workspace/assets/153481807/0f38f854-9c3f-467d-8612-79b6fc21f68f">
+
+<br/> <br/>
+
+- 전자게시판
+   - 전체글 / 공지사항 / 사내소식으로 구분해 게시글 조회 가능함
+   - 오른쪽 상단에 최신 공지글은 별도로 확인할 수 있게 구분하였음
+<img width="70%" alt="boardpage" src="https://github.com/dandi0624/08_spring-workspace/assets/153481807/f3595e71-6b31-410a-bff6-f8ca61f6cb6f">
+
+
+
+
