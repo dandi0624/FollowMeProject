@@ -1,4 +1,4 @@
-# :small_orange_diamond: Follow Me 인스타마켓 판매회사를 위한 그룹웨어 :small_orange_diamond:
+# :small_orange_diamond: Follow Me :small_orange_diamond:
 
 
 ## :bookmark_tabs: 소개
